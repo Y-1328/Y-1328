@@ -1,133 +1,178 @@
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
+</p>
+
 <h1 align="center">Yask Tiwaari</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student · Java Backend Development · AI/ML</strong>
+  <strong>Computer Engineering Student · Java Backend Developer · AI/ML Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building reliable backend applications and exploring practical AI-powered systems.
+  Building practical software with clean code, thoughtful architecture, and continuous learning.
 </p>
 
 <p align="center">
   <a href="https://github.com/Y-1328">
-    <img src="https://img.shields.io/badge/GitHub-Y--1328-30363d?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Y--1328-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/yask-tiwaari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-30363d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- 
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I am a third-year BE Computer Engineering student interested in Java backend development, software architecture, and applied AI/ML.
+```java
+public class Yask {
 
-I enjoy solving problems with code, designing maintainable backend systems, and exploring how AI can be integrated into practical applications.
+    private final String role = "Computer Engineering Student";
 
-My current priorities are strengthening my problem-solving skills, building robust Spring Boot applications, and developing hands-on experience with machine learning and cloud-native technologies.
+    private final String[] interests = {
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "System Design"
+    };
 
-## Technical Skills
+    private final String[] currentFocus = {
+        "Java & Spring Boot",
+        "Data Structures & Algorithms",
+        "AI/ML Projects",
+        "Cloud & DevOps"
+    };
+}
+```
 
-**Languages**
+I'm a third-year BE Computer Engineering student interested in backend engineering, software architecture, and applied AI/ML.
 
-![Java](https://img.shields.io/badge/Java-30363d?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-30363d?style=flat-square)
+I build Java and Spring Boot applications, work with relational databases and authentication, and explore how intelligent systems can solve practical problems.
 
-**Backend Development**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-30363d?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-30363d?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-30363d?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-30363d?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-30363d?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-30363d?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-30363d?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-30363d?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-30363d?style=flat-square&logo=apachemaven&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-30363d?style=flat-square&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-30363d?style=flat-square&logo=postman&logoColor=white)
-
-**Currently Exploring**
-
-Docker · Kubernetes · Machine Learning · Deep Learning · RAG Systems · Cloud Computing
+- **Backend:** Designing REST APIs and maintainable services.
+- **AI/ML:** Exploring machine learning, deep learning, and RAG systems.
+- **Problem-solving:** Practising DSA through [CodexYask](https://github.com/Y-1328/CodexYask).
+- **Infrastructure:** Learning Docker, Kubernetes, Linux, and cloud deployment.
 
 ---
 
-## Selected Projects
+## 🛠️ Tech Stack
 
+<p align="center">
+  <strong>Languages</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" alt="Java, Python, MySQL" />
+</p>
 
-### Horizn — AI-Powered Research Discovery
+<p align="center">
+  <strong>Backend Development</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-A student-focused platform intended to help users discover, summarize, and understand research papers.
+<p align="center">
+  <strong>Databases & Caching</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL and Redis" />
+</p>
 
-**Status:** In development. The dedicated RAG service is planned and should not be considered implemented.
+<p align="center">
+  <strong>Development Tools</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,linux,postman&theme=dark" alt="Git, GitHub, Maven, Linux and Postman" />
+</p>
 
-**Technologies:** Java, Spring Boot, PostgreSQL, AI integration
+<p align="center">
+  <strong>Currently Exploring</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes and AWS" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8E44AD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-E67E22?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-008F83?style=for-the-badge" alt="RAG Systems" />
+</p>
 
-**Status:** Currently in development phase
+---
 
+## 🚀 Featured Projects
 
+### 🌐 Horizn — AI-Powered Research Discovery
 
-### MetroMitra — Metro Ticket Management System
+A student-focused platform designed to help users discover, summarize, and understand research papers.
+
+- **Backend:** Java, Spring Boot, PostgreSQL
+- **AI direction:** Research summarization and a planned RAG service
+- **Status:** In development; the dedicated RAG service is planned.
+
+### 🚇 MetroMitra — Metro Ticket Management System
 
 A backend project focused on metro ticketing workflows, REST APIs, and database-driven operations.
 
-**Technologies:** Java, Spring Boot, REST APIs, SQL
+- **Backend:** Java, Spring Boot
+- **Focus:** API design, application logic, and database management
 
-**Repository:** [MetroMitra](https://github.com/Y-1328/MetroMitra)
-
----
-
-## Current Focus
-
-- Strengthening Data Structures and Algorithms.
-- Building maintainable backend applications with Spring Boot.
-- Developing practical machine learning and deep learning projects.
-- Learning containerization, cloud deployment, and infrastructure fundamentals.
-
-For my DSA practice, visit [CodexYask](https://github.com/Y-1328/CodexYask).
+**[View MetroMitra Repository →](https://github.com/Y-1328/MetroMitra)**
 
 ---
 
-## GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Y-1328&show_icons=true&hide_rank=true&hide_border=true&theme=transparent"
-    alt="GitHub statistics for Y-1328"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-1328&layout=compact&hide_border=true&theme=transparent"
-    alt="Most-used programming languages across public repositories"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Y-1328&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"
+    alt="GitHub statistics"
+    width="95%"
   />
 </p>
 
-<sub>Statistics are generated by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> using public repository data. Language distribution reflects repository contents, not proficiency.</sub>
-
----
-
-## Connect
-
-- **GitHub:** [Y-1328](https://github.com/Y-1328)
-- **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Add your portfolio website](YOUR_PORTFOLIO_URL)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-1328&layout=compact&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=c9d1d9"
+    alt="Programming language distribution across public repositories"
+    width="95%"
+  />
+</p>
 
 <p align="center">
-  <em>Building reliable software, learning continuously, and improving one commit at a time.</em>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Y-1328&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+</p>
+
+<sub>Analytics are generated from public GitHub activity by external services. Availability and displayed metrics depend on those services and the data they can access.</sub>
+
+---
+
+## 🎯 Current Focus
+
+- Improving Data Structures and Algorithms.
+- Building maintainable backend applications with Spring Boot.
+- Developing practical machine learning and deep learning projects.
+- Learning containerization, cloud infrastructure, and deployment.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Y-1328">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yask-tiwaari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Y-1328/CodexYask">
+    <img src="https://img.shields.io/badge/DSA%20Practice-6C47FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA practice repository" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Build. Learn. Solve. Repeat.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
 </p>
