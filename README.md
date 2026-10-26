@@ -1,123 +1,178 @@
-<!--
-  Paste this entire file into the README.md of your profile repository:
-  https://github.com/Y-1328/Y-1328
-  GitHub profile READMEs support Markdown, not arbitrary HTML/CSS/JavaScript.
--->
-
-<div align="center">
-
-YASK <span>TIWAARI</span>
-Computer Engineering Student · Java Backend Developer · AI/ML Enthusiast
-Building reliable backend applications and exploring practical AI-powered systems.
-
-
-“Consistent learning compounds.”
-
-</div>
-
- About Me
-I am a third-year BE Computer Engineering student interested in backend development, software architecture, and applied AI/ML.
--  Building Java and Spring Boot applications
--  Working with databases, authentication, and REST APIs
--  Exploring machine learning and retrieval-augmented generation (RAG)
--  Learning cloud-native technologies and DevOps
--  Strengthening problem-solving skills and building maintainable software
-const interests = [
-  "Backend Engineering",
-  "Machine Learning",
-  "System Design",
-  "Cloud & DevOps"
-];
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
 </p>
 
-### ⚙️ Backend Development
+<h1 align="center">Yask Tiwaari</h1>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="REST API" />
+<p align="center">
+  <strong>Computer Engineering Student · Java Backend Developer · AI/ML Enthusiast</strong>
 </p>
 
-### 🗄️ Databases & BaaS
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+<p align="center">
+  Building practical software with clean code, thoughtful architecture, and continuous learning.
 </p>
 
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="48" height="48" alt="Fedora" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+<p align="center">
+  <a href="https://github.com/Y-1328">
+    <img src="https://img.shields.io/badge/GitHub-Y--1328-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yask-tiwaari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-### 🌐 Web Technologies · Exploring
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+## 👨‍💻 About Me
+
+```java
+public class Yask {
+
+    private final String role = "Computer Engineering Student";
+
+    private final String[] interests = {
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "System Design"
+    };
+
+    private final String[] currentFocus = {
+        "Java & Spring Boot",
+        "Data Structures & Algorithms",
+        "AI/ML Projects",
+        "Cloud & DevOps"
+    };
+}
+```
+
+I'm a third-year BE Computer Engineering student interested in backend engineering, software architecture, and applied AI/ML.
+
+I build Java and Spring Boot applications, work with relational databases and authentication, and explore how intelligent systems can solve practical problems.
+
+- **Backend:** Designing REST APIs and maintainable services.
+- **AI/ML:** Exploring machine learning, deep learning, and RAG systems.
+- **Problem-solving:** Practising DSA through [CodexYask](https://github.com/Y-1328/CodexYask).
+- **Infrastructure:** Learning Docker, Kubernetes, Linux, and cloud deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <strong>Languages</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" alt="Java, Python, MySQL" />
 </p>
 
-### 🧠 Machine Learning · Exploring
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="48" height="48" alt="XGBoost" />
+<p align="center">
+  <strong>Backend Development</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-### ☁️ Cloud & DevOps · Exploring
+<p align="center">
+  <strong>Databases & Caching</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL and Redis" />
+</p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="48" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
+<p align="center">
+  <strong>Development Tools</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,linux,postman&theme=dark" alt="Git, GitHub, Maven, Linux and Postman" />
+</p>
+
+<p align="center">
+  <strong>Currently Exploring</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes and AWS" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8E44AD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-E67E22?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-008F83?style=for-the-badge" alt="RAG Systems" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Horizn — AI-Powered Research Discovery
+
+A student-focused platform designed to help users discover, summarize, and understand research papers.
+
+- **Backend:** Java, Spring Boot, PostgreSQL
+- **AI direction:** Research summarization and a planned RAG service
+- **Status:** In development; the dedicated RAG service is planned.
+
+### 🚇 MetroMitra — Metro Ticket Management System
+
+A backend project focused on metro ticketing workflows, REST APIs, and database-driven operations.
+
+- **Backend:** Java, Spring Boot
+- **Focus:** API design, application logic, and database management
+
+**[View MetroMitra Repository →](https://github.com/Y-1328/MetroMitra)**
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Y-1328&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"
+    alt="GitHub statistics"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-1328&layout=compact&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=c9d1d9"
+    alt="Programming language distribution across public repositories"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Y-1328&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+</p>
+
+<sub>Analytics are generated from public GitHub activity by external services. Availability and displayed metrics depend on those services and the data they can access.</sub>
+
+---
+
+## 🎯 Current Focus
+
+- Improving Data Structures and Algorithms.
+- Building maintainable backend applications with Spring Boot.
+- Developing practical machine learning and deep learning projects.
+- Learning containerization, cloud infrastructure, and deployment.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Y-1328">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yask-tiwaari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Y-1328/CodexYask">
+    <img src="https://img.shields.io/badge/DSA%20Practice-6C47FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA practice repository" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Build. Learn. Solve. Repeat.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
 </p>
