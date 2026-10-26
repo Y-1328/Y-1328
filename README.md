@@ -1,192 +1,106 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
+<!--
+  Paste this entire file into the README.md of your profile repository:
+  https://github.com/Y-1328/Y-1328
+  GitHub profile READMEs support Markdown, not arbitrary HTML/CSS/JavaScript.
+-->
+
+<div align="center">
+
+YASK <span>TIWAARI</span>
+Computer Engineering Student · Java Backend Developer · AI/ML Enthusiast
+Building reliable backend applications and exploring practical AI-powered systems.
+
+
+“Consistent learning compounds.”
+
+</div>
+
+👤 About Me
+I am a third-year BE Computer Engineering student interested in backend development, software architecture, and applied AI/ML.
+- ☕ Building Java and Spring Boot applications
+- 🔐 Working with databases, authentication, and REST APIs
+- 🧠 Exploring machine learning and retrieval-augmented generation (RAG)
+- ☁️ Learning cloud-native technologies and DevOps
+- 🎯 Strengthening problem-solving skills and building maintainable software
+const interests = [
+  "Backend Engineering",
+  "Machine Learning",
+  "System Design",
+  "Cloud & DevOps"
+];
+⚙️ Tech Stack
+Languages
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h1 align="center">Yask Tiwaari</h1>
-
-<p align="center">
-  <strong>Computer Engineering Student · Java Backend Developer · AI/ML Enthusiast</strong>
+Backend Development
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-<p align="center">
-  Building practical software with clean code, thoughtful architecture, and continuous learning.
+Databases & BaaS
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Y-1328">
-    <img src="https://img.shields.io/badge/GitHub-Y--1328-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yask-tiwaari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+Tools & Platforms
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-```java
-public class Yask {
-
-    private final String role = "Computer Engineering Student";
-
-    private final String[] interests = {
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "System Design"
-    };
-
-    private final String[] currentFocus = {
-        "Java & Spring Boot",
-        "Data Structures & Algorithms",
-        "AI/ML Projects",
-        "Cloud & DevOps"
-    };
-}
-```
-
-I'm a third-year BE Computer Engineering student interested in backend engineering, software architecture, and applied AI/ML.
-
-I build Java and Spring Boot applications, work with relational databases and authentication, and explore how intelligent systems can solve practical problems.
-
-- **Backend:** Designing REST APIs and maintainable services.
-- **AI/ML:** Exploring machine learning, deep learning, and RAG systems.
-- **Problem-solving:** Practising DSA through [CodexYask](https://github.com/Y-1328/CodexYask).
-- **Infrastructure:** Learning Docker, Kubernetes, Linux, and cloud deployment.
-
----
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <strong>💻 Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql&theme=dark" alt="Java, Python, C and MySQL" />
+Web Technologies · Exploring
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-  <strong>⚙️ Backend Development</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+Machine Learning · Exploring
+<p>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>🗄️ Databases & Caching</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL and Redis" />
+Cloud & DevOps · Exploring
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>🧰 Tools & Platforms</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,linux,postman&theme=dark" alt="Git, GitHub, Maven, Linux and Postman" />
+💡 Fascinated About
+<p>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/🧠_Machine_Learning-151D2A?style=flat-square" />
+  <img alt="RAG Systems" src="https://img.shields.io/badge/🗄️_RAG_Systems-151D2A?style=flat-square" />
+  <img alt="Cloud Computing" src="https://img.shields.io/badge/☁️_Cloud_Computing-151D2A?style=flat-square" />
+  <img alt="System Design" src="https://img.shields.io/badge/🖥️_System_Design-151D2A?style=flat-square" />
+  <img alt="Linux Fedora" src="https://img.shields.io/badge/🐧_Linux_(Fedora)-151D2A?style=flat-square" />
 </p>
 
-<p align="center">
-  <strong>🌐 Web Technologies — Currently Exploring</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>🤖 Machine Learning & Python Ecosystem — Currently Exploring</strong><br/><br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-</p>
-
-<p align="center">
-  <strong>☁️ Cloud & DevOps — Currently Exploring</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes and AWS" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-E67E22?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-008F83?style=for-the-badge" alt="RAG Systems" />
-</p>
-
-## 🚀 Featured Projects
-
-### 🌐 Horizn — AI-Powered Research Discovery
-
-A student-focused platform designed to help users discover, summarize, and understand research papers.
-
-- **Backend:** Java, Spring Boot, PostgreSQL
-- **AI direction:** Research summarization and a planned RAG service
-- **Status:** In development; the dedicated RAG service is planned.
-
-### 🚇 MetroMitra — Metro Ticket Management System
-
-A backend project focused on metro ticketing workflows, REST APIs, and database-driven operations.
-
-- **Backend:** Java, Spring Boot
-- **Focus:** API design, application logic, and database management
-
-**[View MetroMitra Repository →](https://github.com/Y-1328/MetroMitra)**
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Y-1328&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"
-    alt="GitHub statistics"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-1328&layout=compact&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=c9d1d9"
-    alt="Programming language distribution across public repositories"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Y-1328&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
-</p>
-
-<sub>Analytics are generated from public GitHub activity by external services. Availability and displayed metrics depend on those services and the data they can access.</sub>
-
----
-
-## 🎯 Current Focus
-
-- Improving Data Structures and Algorithms.
-- Building maintainable backend applications with Spring Boot.
-- Developing practical machine learning and deep learning projects.
-- Learning containerization, cloud infrastructure, and deployment.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Y-1328">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yask-tiwaari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Y-1328/CodexYask">
-    <img src="https://img.shields.io/badge/DSA%20Practice-6C47FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA practice repository" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Build. Learn. Solve. Repeat.</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8" width="100%" alt="" />
-</p>
+Designed with focus. Built with curiosity.
+</div>
